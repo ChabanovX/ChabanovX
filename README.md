@@ -29,11 +29,7 @@ I love experimenting with new technologies and exploring how they can be applied
 
 ---
 
-## 📊 GitHub Stats
-
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChabanovX&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChabanovX&layout=compact&theme=tokyonight)
 
 ---
 
