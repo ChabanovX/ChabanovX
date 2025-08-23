@@ -8,18 +8,32 @@ I love experimenting with new technologies and exploring how they can be applied
 
 ## ⚡ Tech Stack & Interests
 
-- **Languages**: Dart (Flutter), Python, Go, C++, Rust  
-- **Focus Areas**: Mobile apps, backend systems, peer-to-peer architectures, AI/ML-powered applications  
-- **Tooling**: Docker, GitHub Actions, custom CLI tools for automation  
-- **AI/ML**: Applying generative models, retrieval-augmented systems, and practical ML deployment in apps  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
----
+- **Mobile:** Flutter, Bloc/Riverpod, ObjectBox, Drift  
+- **Backend & Systems:** Go, Python, GraphQL, WebRTC, WebSockets, gRPC, Docker
+- **AI/ML:** Generative models, RAG, applied ML in mobile apps  
+- **DevOps & Tools:** GitHub Actions, custom CLIs, monorepo automation  
+
 
 ## 🌱 Currently
 
 - Learning **Rust** by exploring blockchain and protocol-level projects.  
 - Integrating **AI/ML features** into real-world apps.  
 - Building tools and utilities to improve **developer experience**.  
+
+---
+
+## 📊 GitHub Stats
+
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChabanovX&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChabanovX&layout=compact&theme=tokyonight)
 
 ---
 
