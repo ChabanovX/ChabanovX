@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ivan Chabanov
+# Hi, I’m Ivan Chabanov
 
 I’m a software developer passionate about building **modern applications** that combine  
 **Flutter/Dart mobile development**, **P2P architectures**, and **AI/ML integrations**.  
@@ -6,7 +6,7 @@ I love experimenting with new technologies and exploring how they can be applied
 
 ---
 
-## ⚡ Tech Stack & Interests
+## Tech Stack & Interests
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
@@ -21,7 +21,7 @@ I love experimenting with new technologies and exploring how they can be applied
 - **DevOps & Tools:** GitHub Actions, custom CLIs, monorepo automation  
 
 
-## 🌱 Currently
+## Currently
 
 - Learning **Rust** by exploring blockchain and protocol-level projects.  
 - Integrating **AI/ML features** into real-world apps.  
